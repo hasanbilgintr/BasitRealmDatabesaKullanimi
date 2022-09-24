@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/YerelDiskD/USB/Calisma_Sayfalari/Android_Studio_Calismalari/Cumle_copyanne/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/YerelDiskD/USB/Calisma_Sayfalari/Android_Studio_Calismalari/Cumle_copyanne/app/src/main/res/layout/alertlayout.xml" value="0.51125" />
+        <entry key="..\:/YerelDiskD/USB/Calisma_Sayfalari/Android_Studio_Calismalari/Cumle_copyanne/app/src/main/res/layout/layout.xml" value="0.9" />
+        <entry key="..\:/YerelDiskD/USB/Calisma_Sayfalari/Android_Studio_Calismalari/_80_Saatlik_video_murat_koc_udemy/8_Realm_Veri_Tabani/RealmInsertView/app/src/main/res/layout/activity_main.xml" value="0.36615384615384616" />
+        <entry key="..\:/YerelDiskD/USB/Calisma_Sayfalari/Android_Studio_Calismalari/_80_Saatlik_video_murat_koc_udemy/8_Realm_Veri_Tabani/RealmInsertView/app/src/main/res/layout/alertlayout.xml" value="0.36615384615384616" />
+        <entry key="..\:/YerelDiskD/USB/Calisma_Sayfalari/Android_Studio_Calismalari/_80_Saatlik_video_murat_koc_udemy/8_Realm_Veri_Tabani/RealmInsertView/app/src/main/res/layout/layout.xml" value="0.36615384615384616" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

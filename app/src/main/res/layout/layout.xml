@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="horizontal"
+    android:background="#192645">
+
+    <TextView
+        android:id="@+id/Et_Cumle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textColor="#fff"
+
+        android:textStyle="bold" />
+
+   <!-- <Button
+        android:id="@+id/btn_copy"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+
+        android:text="Kopyala" />
+
+-->
+    <!--     <TextView
+            android:id="@+id/Et_KullaniciSifre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/Et_KullaniciIsim"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/Et_KullaniciCinsiyet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#fff"
+
+            android:textStyle="bold" />
+    -->
+
+</LinearLayout><!--new =>xml=> layout xml file den açılldı-->
